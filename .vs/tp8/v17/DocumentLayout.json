@@ -5,6 +5,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{43A858C7-4C96-4FE1-AFA4-2CDAE3BA9B45}|tp8\\tp8.csproj|d:\\kpl c#\\tp8\\tp8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43A858C7-4C96-4FE1-AFA4-2CDAE3BA9B45}|tp8\\tp8.csproj|solutionrelative:tp8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43A858C7-4C96-4FE1-AFA4-2CDAE3BA9B45}|tp8\\tp8.csproj|d:\\kpl c#\\tp8\\tp8\\covidconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43A858C7-4C96-4FE1-AFA4-2CDAE3BA9B45}|tp8\\tp8.csproj|solutionrelative:tp8\\covidconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43A858C7-4C96-4FE1-AFA4-2CDAE3BA9B45}|tp8\\tp8.csproj|d:\\kpl c#\\tp8\\tp8\\covid_config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{43A858C7-4C96-4FE1-AFA4-2CDAE3BA9B45}|tp8\\tp8.csproj|solutionrelative:tp8\\covid_config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43A858C7-4C96-4FE1-AFA4-2CDAE3BA9B45}|tp8\\tp8.csproj|d:\\kpl c#\\tp8\\tp8\\tp8.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{43A858C7-4C96-4FE1-AFA4-2CDAE3BA9B45}|tp8\\tp8.csproj|solutionrelative:tp8\\tp8.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +26,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "tp8",
+              "DocumentMoniker": "D:\\KPL C#\\tp8\\tp8\\tp8.csproj",
+              "RelativeDocumentMoniker": "tp8\\tp8.csproj",
+              "ToolTip": "D:\\KPL C#\\tp8\\tp8\\tp8.csproj",
+              "RelativeToolTip": "tp8\\tp8.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-14T13:32:52.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "covid_config.json",
+              "DocumentMoniker": "D:\\KPL C#\\tp8\\tp8\\covid_config.json",
+              "RelativeDocumentMoniker": "tp8\\covid_config.json",
+              "ToolTip": "D:\\KPL C#\\tp8\\tp8\\covid_config.json",
+              "RelativeToolTip": "tp8\\covid_config.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-14T10:23:45.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CovidConfig.cs",
+              "DocumentMoniker": "D:\\KPL C#\\tp8\\tp8\\CovidConfig.cs",
+              "RelativeDocumentMoniker": "tp8\\CovidConfig.cs",
+              "ToolTip": "D:\\KPL C#\\tp8\\tp8\\CovidConfig.cs",
+              "RelativeToolTip": "tp8\\CovidConfig.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAkwBcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T10:23:17.71Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +75,7 @@
               "RelativeDocumentMoniker": "tp8\\Program.cs",
               "ToolTip": "D:\\KPL C#\\tp8\\tp8\\Program.cs",
               "RelativeToolTip": "tp8\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAUwFAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-14T10:16:09.945Z",
               "EditorCaption": ""

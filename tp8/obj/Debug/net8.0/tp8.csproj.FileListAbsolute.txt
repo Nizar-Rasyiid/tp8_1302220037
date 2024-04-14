@@ -12,3 +12,4 @@ D:\KPL C#\tp8\tp8\obj\Debug\net8.0\refint\tp8.dll
 D:\KPL C#\tp8\tp8\obj\Debug\net8.0\tp8.pdb
 D:\KPL C#\tp8\tp8\obj\Debug\net8.0\tp8.genruntimeconfig.cache
 D:\KPL C#\tp8\tp8\obj\Debug\net8.0\ref\tp8.dll
+D:\KPL C#\tp8\tp8\obj\Debug\net8.0\tp8.sourcelink.json
