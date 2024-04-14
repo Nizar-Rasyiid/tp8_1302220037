@@ -1,0 +1,14 @@
+D:\KPL C#\tp8\tp8\bin\Debug\net8.0\tp8.exe
+D:\KPL C#\tp8\tp8\bin\Debug\net8.0\tp8.deps.json
+D:\KPL C#\tp8\tp8\bin\Debug\net8.0\tp8.runtimeconfig.json
+D:\KPL C#\tp8\tp8\bin\Debug\net8.0\tp8.dll
+D:\KPL C#\tp8\tp8\bin\Debug\net8.0\tp8.pdb
+D:\KPL C#\tp8\tp8\obj\Debug\net8.0\tp8.GeneratedMSBuildEditorConfig.editorconfig
+D:\KPL C#\tp8\tp8\obj\Debug\net8.0\tp8.AssemblyInfoInputs.cache
+D:\KPL C#\tp8\tp8\obj\Debug\net8.0\tp8.AssemblyInfo.cs
+D:\KPL C#\tp8\tp8\obj\Debug\net8.0\tp8.csproj.CoreCompileInputs.cache
+D:\KPL C#\tp8\tp8\obj\Debug\net8.0\tp8.dll
+D:\KPL C#\tp8\tp8\obj\Debug\net8.0\refint\tp8.dll
+D:\KPL C#\tp8\tp8\obj\Debug\net8.0\tp8.pdb
+D:\KPL C#\tp8\tp8\obj\Debug\net8.0\tp8.genruntimeconfig.cache
+D:\KPL C#\tp8\tp8\obj\Debug\net8.0\ref\tp8.dll
